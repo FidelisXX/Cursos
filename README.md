@@ -4,16 +4,38 @@ Cursos na área de Desenvolvimento
 
 
 Linux: A introdução ao Sistema Operacional
+
+
 Introdução ao Git e ao GitHub
+
+
 Aprenda o que são Estruturas de Dados e Algoritmos 
+
+
 Shell Script - Manipulando Arquivos
+
+
 Desenvolvimento básico em Java
+
+
 Lógica de Programação Essencial 
+
+
 Conceitos e Melhores Práticas com bancos de dados PostgreSQL 
+
+
 Fundamentos de Arquitetura de Sistemas
+
+
 Implementando Collections e Streams com Java
+
+
 Introdução a Engenharia de Dados
+
+
 Introdução a Ciência de Dados
+
+
 Arquitetura de Sistemas Avançado
 Introdução a orquestração de contêineres com Docker
 Introdução ao Kotlin
